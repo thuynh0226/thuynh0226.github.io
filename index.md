@@ -1,6 +1,6 @@
 # Hello World
 
-This is my homepage! My name is Tom Huynh and I am a student at Cal State Fullerton and my major is electrical engineering.
+This is my homepage! My name is Tom Huynh and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is electrical engineering.
 
 ## Computer Science Projects
 
