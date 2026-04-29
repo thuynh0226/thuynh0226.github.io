@@ -14,8 +14,8 @@ My GitHub page is http://github.com/thuynh0226.
 
 * Lab 7
 
-    Lab 7, part 1 was one of my favorites because it was interesting to utilize images to get data about the parking rules. It was satisfying to see the end result with the pictures. This lab helped me practice if statements.
+    Lab 7, part 1 was one of my favorites because it was interesting to utilize images to get data about the parking rules. It was satisfying to see the end result with the pictures. This lab helped me practice if-else statements and was a major help in tying the bigger picture of coding for me.
 
 * Lab 8
 
-    Lab 8, part 1 was also a favorite because I found calculating averages very satisfying to do. It was a great learning experience writing code that performed arithmetic and using different operators to gather results and data.
+    Lab 8, part 1 was also a favorite because I found calculating averages very satisfying to do. It was a great learning experience writing code that performed arithmetic and using different operators to gather results and data. The end results with running the code on the terminal was very entertaining.
